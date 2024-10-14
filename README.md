@@ -1,2 +1,2 @@
-# OOP-exercises---Java
-These are some of the exercises I did on my OOP class. This is all made on Java.
+# Encapsulament
+Create a class named "Auto" (Car) and "Moto" (Motorcycle) with their proper attributes. Then create a class named "Vehiculo" (Vehicle) with abstract methods.
